@@ -1,0 +1,80 @@
+.alif{
+    width: fit-content;
+    display: flex;
+}
+.baa{
+    list-style-type: none;
+    padding: 10px;
+    width: fit-content; 
+}
+.taa{
+    display: inline-block;
+    padding: 10px;
+}
+.saa{
+    width: fit-content;
+    padding: 10px;  
+}
+.dall{
+    background-color: rgb(26, 26, 59); 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tull{
+    padding: 10px;
+
+}
+.gimm{
+    width: 20px;
+    height: 20px;
+}
+
+.lam{
+    display: inline-block; 
+    width: fit-content;
+    padding: 5px;  
+    color: white;
+}
+.hamza{
+    background: rgb(93, 192, 93);
+    padding: 10px;
+}
+
+    
+
+.eight{
+    display: inline-block;
+    background: white;
+    padding: 10px 10px;
+    padding-right: 900px;
+}
+.nine{
+    width: fit-content;
+}
+
+
+.wee{
+    width: 100%;
+    height: 400px;
+    background: rgb(28, 28, 68);
+    padding: 5px;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    /* flex-wrap: wrap;
+    align-content: center; */
+
+}
+.dij{
+    background: white;
+    margin: 5px;
+    padding: 10px;
+    height: 20px;
+    width: fit-content;
+    list-style-type: none;
+}

@@ -1,0 +1,72 @@
+.weak{
+    width: 100px;
+    height: 100px;
+    background: red;
+    padding: 20px;
+    border-radius: 100%;
+}
+.eata{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    padding: 20px;
+    border-radius: 100px;
+    box-sizing:border-box;
+}
+.teaa{
+    width: 60px;
+    height: 60px;
+    background: blue;
+    padding: 20px;
+    border-radius: 100%;
+    box-sizing: border-box;
+}
+.you{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.alif{
+    width: fit-content;
+    display: flex;
+}
+.baa{
+    list-style-type: none;
+    padding: 10px;
+    width: fit-content; 
+}
+.taa{
+    display: inline-block;
+    padding: 10px;
+}
+.saa{
+    width: fit-content;
+    padding: 10px;  
+}
+.dall{
+    background-color: rgb(26, 26, 59); 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tull{
+    padding: 10px;
+
+}
+.gimm{
+    width: 20px;
+    height: 20px;
+}
+
+.lam{
+    display: inline-block; 
+    width: fit-content;
+    padding: 5px;  
+    color: white;
+}
+.hamza{
+    background: rgb(93, 192, 93);
+    padding: 10px;
+}

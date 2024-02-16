@@ -1,0 +1,71 @@
+body{
+    background:gray;
+}
+form{
+    width: fit-content;
+    padding: 20px;
+    margin: 0px auto;
+    border-radius: 5%;
+    box-shadow: inset 0px 0px 20px aliceblue;
+    background-color: transparent
+    
+   } 
+
+input{
+    padding: 30px 30px 10px;
+    outline: none;
+    background: transparent;
+    border: none;
+    box-shadow: inset 0px 0px 20px aliceblue;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    background: transparent;
+    box-shadow: inset 0px 0px 20px aliceblue;
+}
+.alif{
+    width: fit-content;
+    display: flex;
+}
+.baa{
+    list-style-type: none;
+    padding: 10px;
+    width: fit-content; 
+}
+.taa{
+    display: inline-block;
+    padding: 10px;
+}
+.saa{
+    width: fit-content;
+    padding: 10px;  
+}
+.dall{
+    background-color: rgb(26, 26, 59); 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tull{
+    padding: 10px;
+
+}
+.gimm{
+    width: 20px;
+    height: 20px;
+}
+
+.lam{
+    display: inline-block; 
+    width: fit-content;
+    padding: 5px;  
+    color: white;
+}
+.hamza{
+    background: rgb(93, 192, 93);
+    padding: 10px;
+}
