@@ -1,0 +1,58 @@
+#body{
+    background: rgb(250, 247, 247);
+}
+.gimm{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+   
+}
+.one{
+    border-left: 9px solid rgba(245, 245, 9, 0.952);
+   
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+    height: 100dvh;
+}
+.three{
+    width: fit-content ; 
+    background: white;
+    padding: 50px;
+    border: 2px solid rgb(241, 237, 237);
+    border-radius: 15px;
+    
+}
+.four{
+    width: 100%;
+    height: 40px;
+    border: 1px solid black;
+    padding: 0px 9px;
+ 
+
+    
+}
+.four:focus{
+    outline: 1px solid rgb(91, 91, 240) !important;
+}
+.five{
+    transform: scale(1.7);
+    border: 1px solid black;
+}
+.five:focus{
+    outline: 1px solid rgb(91, 91, 240) !important;
+}
+.six{
+    margin-left: 10px;
+}
+.seven{
+    margin-left: 10px;  
+}
+.eight{
+    padding: 10px 40px 10px 40px !important;
+    border-radius: 20px !important;
+}

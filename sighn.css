@@ -1,0 +1,31 @@
+.two{
+    width: 13px;
+    height: 13px;
+}
+.one{
+    padding: 10px;
+}
+
+.five{
+   display: flex;
+   flex-direction: row;
+   margin-left: 30px;
+   box-shadow: 10px !important;
+}
+.three{
+    margin-bottom: 45px;
+}
+.six{
+    width: 40%;
+    margin-left: 70px;
+}
+.seven{
+    margin-left: 90px !important;
+}
+body{
+    background-image: url(access/ddd.png);
+    background-position: 100%;
+}
+.ten{
+    box-shadow: 100px;
+}
